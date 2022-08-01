@@ -16,7 +16,7 @@ public class WorkWithAnimals {
 
         changeObjectName(fido);                                     // static method is called without object name
 
-        System.out.println("Dog name after method call: "+ fido.getName());
+        System.out.println("Dog name after method call: "+ fido.getName()); // fido name changed
 
     }
 
